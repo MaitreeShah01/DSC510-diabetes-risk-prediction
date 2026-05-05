@@ -21,9 +21,9 @@ data-driven public health interventions.
 ## Files
 | File | Description |
 |---|---|
-| `health_ds_final_project.py` | Full analysis notebook (EDA, modeling, results) |
-| `DSC510_Group16_Report.docx` | Written project report (8-10 pages) |
-| `Powerpoint_Slides_Final.pptx` | Pecha Kucha presentation (20 slides, 20 sec each) |
+| `Health DS Final Project.ipynb` | Full analysis notebook (EDA, modeling, results) |
+| `Health DS Project Write-up.pdf` | Written project report (8-10 pages) |
+| `Powerpoint Slides.pdf` | Pecha Kucha presentation (20 slides, 20 sec each) |
 
 ## Tech Stack
 Python, Scikit-learn, Pandas, Matplotlib, Seaborn, CDC Diabetes Atlas, County Health Rankings
